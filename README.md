@@ -1,6 +1,5 @@
 {
-  "expiry_hours": 24,
-  "auth_enabled": true,
-  "dest_link": "https://auth.pwasmultiverse.workers.dev/generate?code=",
-  "tutorial_url": "https://youtu.be/-noEI0qW8s8?si=sqeL6hqg36P0uMvo"
+  "shortener_api_base": "https://yorurl.com/api",
+  "shortener_token": "18d9789175a9d89cfdec3778ddef84aa8b75c123",
+  "alias_type": "random" 
 }
